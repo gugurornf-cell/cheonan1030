@@ -6,4 +6,4 @@
 
 - 포트폴리오: https://gugurornf-cell.github.io/cheonan1030/
 - 웹얩: https://gugurornf-cell.github.io/cheonan1030/1
-- 프레젠테이션 게시: https://gugurornf-cell.github.io/cheonan1030/cheonan-youth-presentation.html#slide-1
+- 프레젠테이션 게시: https://gugurornf-cell.github.io/cheonan1030/2
